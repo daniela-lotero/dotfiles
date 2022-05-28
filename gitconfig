@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daniela.loterom@gmail.com
+	name = daniela lotero
